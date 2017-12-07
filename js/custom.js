@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-  $('.flipbook').turn({width:922,height:800,elevation: 50,gradients: true,});
+  $('.flipbook').turn({width:600,height:300,elevation: 50,gradients: true,});
 	// Create the flipbook
 
   // Smooth scrolling
