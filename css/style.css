@@ -40,7 +40,7 @@ a {
   Elements
   ================================================== */
 .btn {
-  background-color: #4770eb;
+  background-color: #0a1e5a;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
@@ -64,7 +64,7 @@ a {
 
 .btn-ghost:hover {
   background-color: #fff;
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 section {
@@ -92,7 +92,7 @@ a:hover {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  background: #4770eb;
+  background: #0a1e5a;
   color: #fff;
   text-align: center;
   font-size: 24px;
@@ -157,7 +157,7 @@ a:hover {
   Header Styling
 ================================================== */
 #header {
-  background: #4770eb;
+  background: #0a1e5a;
   height: 70px;
 }
 
@@ -318,7 +318,7 @@ a:hover {
 }
 
 .nav-menu ul li:hover {
-  background: #4770eb;
+  background: #0a1e5a;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -424,11 +424,11 @@ a:hover {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 #mobile-body-overly {
@@ -469,7 +469,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #666;
-  border: 6px solid #4770eb;
+  border: 6px solid #0a1e5a;
   border-radius: 50%;
   padding: 55px 25px 0 25px;
   position: relative;
@@ -518,7 +518,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .features h2 {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 .feature-col {
@@ -539,7 +539,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 70px;
   height: 70px;
   margin-bottom: 15px;
-  background: #4770eb;
+  background: #0a1e5a;
   color: #fff;
   font-size: 24px;
   text-align: center;
@@ -549,7 +549,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-col h3 {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 .feature-col p {
@@ -561,7 +561,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* ==================================================
   Call-to-action Styling  ================================================== */
 .cta {
-  background-color: #4770eb;
+  background-color: #0a1e5a;
   padding: 25px 0;
 }
 
@@ -592,11 +592,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 0;
 }
 .evaluation h2 {
-  color: #4770eb;
+  color: #0a1e5a;
   margin-bottom: 25px;
 }
 .portfolio h2 {
-  color: #4770eb;
+  color: #0a1e5a;
   margin-bottom: 25px;
 }
 
@@ -662,7 +662,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Team Styling
   ================================================== */
 .team h2 {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 .team .col-sm-3 {
@@ -710,7 +710,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-  background-color: #4770eb;
+  background-color: #0a1e5a;
 }
 
 .team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
@@ -767,12 +767,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact h2 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 #contact .info i {
   font-size: 32px;
-  color: #4770eb;
+  color: #0a1e5a;
   float: left;
 }
 
@@ -782,8 +782,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #4770eb;
-  border: 1px solid #4770eb;
+  color: #0a1e5a;
+  border: 1px solid #0a1e5a;
   display: none;
   text-align: center;
   padding: 15px;
@@ -820,7 +820,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #4770eb;
+  background: #0a1e5a;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -885,7 +885,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .bottom .list-inline a:hover {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 .site-footer .credits {
@@ -893,7 +893,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .credits a {
-  color: #4770eb;
+  color: #0a1e5a;
 }
 
 /* ==================================================
